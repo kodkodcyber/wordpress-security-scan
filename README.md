@@ -7,7 +7,7 @@ Python tool for scanning wordpress websites and checking the security level on t
 
 ```console
 # clone the repository 
-$ git clone https://github.com/eliyaha02/wordpress-security-scan
+$ git clone https://github.com/kodkodcyber/wordpress-security-scan
 
 # change the working directory to wordpress-security-scan
 $ cd wordpress-security-scan
